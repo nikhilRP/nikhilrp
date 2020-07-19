@@ -11,8 +11,9 @@ Some details about me:
 * 🌱 I’m currently learning on how to build strategy which spans over a decade.
 * 💬 Ask me about lot of things including some topics below
   * Building a data team
-  * Data Science
+  * Data Science, Machine Learning, Analytics, Artificial Intelligence 
   * Data Engineering
+  * Infratructure as Code
   * Coaching data scientists & engineers
   * Traveling (did travel more than 50 countries and lived in 6)
 * 📫 How to reach me: linkedin.com/in/nikhilrp
