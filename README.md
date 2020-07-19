@@ -4,9 +4,9 @@
 **nikhilRP/nikhilrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am accomplished technology leader with significant experience in digital transformation, business strategy and end-to-end data science and AI engagements. Led business critical, transformational analytics and IoT initiatives in multiple domains including automotive, aerospace, meteorology, genomics, genetics and healthcare managing diverse teams from research, software and business.
+I am accomplished technology leader with significant experience in digital transformation, business strategy and end-to-end data science and AI engagements. I did lead business critical, transformational analytics and IoT initiatives in multiple domains including automotive, aerospace, meteorology, genomics, genetics and healthcare managing diverse teams from research, software and business.
 
-Few 
+Some details about me:
 * 🔭 I’m currently working as Head of Data Science & Engineering @ DAF Trucks NV (PACCAR EU)
 * 🌱 I’m currently learning on how to build strategy which spans over a decade.
 * 💬 Ask me about lot of things including some topics below
