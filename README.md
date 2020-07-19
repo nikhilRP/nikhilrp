@@ -8,10 +8,8 @@ I am accomplished technology leader with significant experience in digital trans
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Head of Data Science & Engineering @ PACCAR
-- 🌱 I’m currently learning on 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
+- 🔭 I’m currently working as Head of Data Science & Engineering @ DAF Trucks NV (PACCAR EU)
+- 🌱 I’m currently learning on how to build strategy which spans over a decade.
 - 💬 Ask me about lot of things including some topics below
 -- Building a data team
 -- Data Science
