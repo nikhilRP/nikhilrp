@@ -9,7 +9,7 @@ I am accomplished technology leader with significant experience in digital trans
 Some details about me:
 * 🔭 I’m currently working as Head of Data Science & Engineering @ DAF Trucks NV (PACCAR EU)
 * 🌱 I’m currently learning on how to build strategy which spans over a decade.
-* 💬 Ask me about lot of things including some topics below
+* 💬 Ask me about topics below among many other things
   * Building a data team
   * Data Science, Machine Learning, Analytics, Artificial Intelligence 
   * Data Engineering
