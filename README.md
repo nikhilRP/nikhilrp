@@ -7,7 +7,7 @@
 I am accomplished technology leader with significant experience in digital transformation, business strategy and end-to-end data science and AI engagements. I did lead business critical, transformational analytics and IoT initiatives in multiple domains including automotive, aerospace, meteorology, genomics, genetics and healthcare managing diverse teams from research, software and business.
 
 Some details about me:
-* 🔭 I’m currently working as **Head of Data Science & Engineering** @ DAF Trucks NV (PACCAR EU)
+* 🔭 I’m currently working as **Head of Data Science.**
 * 🌱 I’m currently learning on how to build strategy which spans over a decade.
 * 💬 Ask me about topics below among many other things
   * Building a data team
