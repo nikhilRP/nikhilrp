@@ -1,4 +1,4 @@
-# Nikhil Reddy
+# Nikhil
 
 AI | Drug Discovery | External Innovation
 
