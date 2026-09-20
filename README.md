@@ -1,22 +1,21 @@
-### Hi there 👋
+# Nikhil Reddy
 
-<!--
-**nikhilRP/nikhilrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+AI | Drug Discovery | External Innovation
 
-I am accomplished technology leader with significant experience in digital transformation, business strategy and end-to-end data science and AI engagements. I did lead business critical, transformational analytics and IoT initiatives in multiple domains including automotive, aerospace, meteorology, genomics, genetics and healthcare managing diverse teams from research, software and business.
+I work at the intersection of artificial intelligence, human data, and pharmaceutical R&D, identifying technologies and partnerships that accelerate therapeutic discovery and improve scientific decision-making.
 
-Some details about me:
-* 🔭 I’m currently working as **Head of Data Science** at Boehringer Ingelheim's digital lab BI X.  
-* 🌱 I’m currently learning on how to build strategy which spans over a decade.
-* 💬 Ask me about topics below among many other things
-  * Building a data team
-  * Data Science, Machine Learning, Analytics, Artificial Intelligence 
-  * Data Engineering
-  * Infratructure as Code
-  * Coaching data scientists & engineers
-  * Traveling (did travel more than 50 countries and lived in 6)
-* 📫 How to reach me: linkedin.com/in/nikhilrp
-* ⚡ Fun fact: 
-  * I code to give myself a break from my managerial duties.
+Currently focused on:
+- AI for drug discovery and development
+- Biology foundation models and predictive biology
+- Human and multimodal biomedical data
+- Scientific knowledge generation
+- Technology intelligence and external innovation
+- Venture, partnership, and ecosystem strategy
 
+## Areas of Interest
+
+AI Agents • Foundation Models • Computational Biology • Genomics • Virtual Cells • Knowledge Graphs • Causal AI • R&D Decision Intelligence
+
+## Philosophy
+
+> The future of drug discovery will emerge from the convergence of human data, predictive biology, artificial intelligence, and automated experimentation.
